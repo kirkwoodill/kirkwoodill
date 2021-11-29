@@ -6,7 +6,6 @@ I’ve had an interest 👀 in web development since '03, when I built my first 
 
 
 
-
 <p align="left">
   <a href="https://www.linkedin.com/in/kirk-woodill/">
     <img alt="Kirk's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
